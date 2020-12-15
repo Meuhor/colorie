@@ -1,27 +1,23 @@
-site: Colorie
-url: 
-author: Colorie
+site: Meuhor‘s Blog
+url: https://meuhor.tech
+author: Meuhor
 author:
-  name: Colorie
-  email: 
+  name: Meuhor
+  email: meuhor@foxmail.com
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Meuhor's Blog
+description: Some hand notes taken down during the work, which supposed to just work.
 logo: 
 image: 
-twitter: ronaldsvilcins  
+twitter:   
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
-  card: summary
+  username:
+  creator: 
+  card: 
 social:
-  name: Ronalds Vilcins
+  name: 
   links:
-    - https://twitter.com/#
-    - https://www.dribbble.com/#
-    - https://github.com/#
-    - https://codepen.io/#
   
 permalink: pretty
 
@@ -45,7 +41,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-seo-tag
   - jekyll-sitemap
   - disqus-for-jekyll
 

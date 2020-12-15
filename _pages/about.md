@@ -3,20 +3,16 @@ layout: page
 title: About
 ---
 
-## Colorie - Single column blog and portfolio Jekyll theme 
+## This is the personal blog of Meuhor
 
-Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
+This personal blog is powered by [Colorie - Jekyll theme](https://github.com/ronv/colorie), which is an elegant theme.
 
-### Key features
+Here keeps some hand notes during my work and learning.
 
-- seo optimized
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
+Since I'm not a native English speaker, there are supposed to be some mistakes in linguistics, such as grammar or spell mistakes, though I've struggled with Online Translation when writing.
+
+All the notes are regarded to be just working, which means I've not dig down deeply into the problem, but there would also be some clues, links from stackoverflow or some other website where I found the "just work" method.
+
+There is an traditional Chinese idiom, "不求甚解", which is translated to "read without thorough understanding", that represents these notes in this repository.
+
+A Chinese version of these blogs are available on cnblogs page named [Just-Works](https://www.cnblogs.com/Just-Works/).
